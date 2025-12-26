@@ -1,4 +1,4 @@
-import streamlit as st
+ import streamlit as st
 import requests
 from datetime import datetime
 
@@ -432,3 +432,6 @@ st.markdown("""
     <div style="color: rgba(255,255,255,0.4); font-size: 12px; margin-top: 8px;">Made with ❤️ for Canadian travellers</div>
 </div>
 """, unsafe_allow_html=True)
+
+ 
+   
