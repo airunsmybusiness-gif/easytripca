@@ -66,8 +66,8 @@ st.markdown("""<style>
 #MainMenu, footer { visibility: hidden; }
 h1, h2, h3 { color: white !important; }
 p { color: rgba(255,255,255,0.8) !important; }
-.stTextInput > div > div > input { background: rgba(255,255,255,0.15) !important; border: 2px solid rgba(255,255,255,0.3) !important; border-radius: 12px !important; color: white !important; }
-.stTextInput > div > div > input::placeholder { color: rgba(255,255,255,0.5) !important; }
+.stTextInput > div > div > input { background: rgba(30,30,60,0.9) !important; border: 2px solid rgba(255,255,255,0.4) !important; border-radius: 12px !important; color: #ffffff !important; font-weight: 500 !important; }
+.stTextInput > div > div > input::placeholder { color: rgba(255,255,255,0.6) !important; }
 .stButton > button { background: linear-gradient(135deg, #ff6b6b, #ff8e8e) !important; color: white !important; border: none !important; border-radius: 12px !important; font-weight: 700 !important; width: 100% !important; }
 .stSelectbox > div > div { background: rgba(255,255,255,0.1) !important; border: 2px solid rgba(255,255,255,0.2) !important; border-radius: 12px !important; }
 .stSelectbox label, .stSlider label, .stRadio label { color: white !important; }
